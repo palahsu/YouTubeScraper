@@ -2,7 +2,7 @@
 
 Scraping YouTube Video Description and Video Likes and Comments and Date, Times and Replies. It's Automatically Extracting Data from Video.   
 
-## Features:
+## Features
 - Video Description
 - Video Comments
 - Video Likes
@@ -10,12 +10,12 @@ Scraping YouTube Video Description and Video Likes and Comments and Date, Times 
 - Time And Date
 - Video Comments Reply
 
-## How to Setup:
+## How to Setup
 - Go to https://console.cloud.google.com/ (Search YouTube Data API v3)
 - Click on Enable And Click Credential And Click Api Key.
 - After clicking Create Credential, Copy "api_key" from there & "Video ID" from YouTube Video. (This will be used in setup.py)
 
-## How to Use:
+## How to Use
 - Run Setup File & Scraper File.
 - The final output will be stored in a CSV/JSON file same directory path.
 

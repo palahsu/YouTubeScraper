@@ -18,6 +18,16 @@ Scrape YouTube Video Description and Video Likes and Comments and Times and Repl
 ## How to Use:
 - Run Setup File & Scraper File.
 
+## Requirements
+- Python 3.5+
+
+## Supported Devices
+- Linux
+- Windows
+- MacOS
+- BSD
+- Termux
+
 For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
 
 <a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>

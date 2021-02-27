@@ -6,7 +6,14 @@ Download YouTube Video Description and Video and Comments and Likes and Reply!
 - Video Description
 - Video Comments
 - Video Likes
+- Subscribers Count
+- Time And Date
 - Video Comments Reply
+
+## How to Setup:
+- Go to https://console.cloud.google.com/ (Search YouTube Data API v3)
+- Click on Enable And Click Credential And Click Api Key.
+- After clicking Create Credential, Copy "api_key" from there & "Video ID" from YouTube Video. (This will be used in setup.py)
 
 For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
 

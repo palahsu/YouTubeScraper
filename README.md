@@ -15,6 +15,9 @@ Download YouTube Video Description and Video and Comments and Likes and Reply!
 - Click on Enable And Click Credential And Click Api Key.
 - After clicking Create Credential, Copy "api_key" from there & "Video ID" from YouTube Video. (This will be used in setup.py)
 
+## How to Use:
+- Run Setup File & Scraper File.
+
 For any kind of help, support, payment, donate, suggestion and request ask me on Gmail / Telegram:
 
 <a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>

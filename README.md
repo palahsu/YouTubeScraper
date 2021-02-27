@@ -1,6 +1,6 @@
 # YouTubeScraper
 
-Scrape YouTube Video Description and Video Likes and Comments and Times and Replies!
+Scraping YouTube Video Description and Video Likes and Comments and Times and Replies! It's Automatically Extracting Data from Video.   
 
 ## Features:
 - Video Description
@@ -17,6 +17,7 @@ Scrape YouTube Video Description and Video Likes and Comments and Times and Repl
 
 ## How to Use:
 - Run Setup File & Scraper File.
+- 
 
 ## Requirements
 - Python 3.5+

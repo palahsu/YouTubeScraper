@@ -17,7 +17,7 @@ Scraping YouTube Video Description and Video Likes and Comments and Times and Re
 
 ## How to Use:
 - Run Setup File & Scraper File.
-- 
+- The final output will be stored in a CSV/JSON file same directory path.
 
 ## Requirements
 - Python 3.5+

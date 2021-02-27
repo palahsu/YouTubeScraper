@@ -1,6 +1,6 @@
 # YouTubeScraper
 
-Download YouTube Video Description and Video and Comments and Likes and Reply!
+Scrape YouTube Video Description and Video Likes and Comments and Times and Replies!
 
 ## Features:
 - Video Description

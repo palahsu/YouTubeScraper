@@ -3,7 +3,7 @@
 Scraping YouTube Video Description and Video Likes and Comments and Date, Times and Replies. It's Automatically Extracting Data from Video.   
 
 ## Features
-- Count
+- Count 
 - Video Description
 - Video Comments
 - Video Likes Count

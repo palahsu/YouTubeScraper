@@ -5,7 +5,7 @@ Scraping YouTube Video Description and Video Likes and Comments and Date, Times 
 ## Features
 - Video Description
 - Video Comments
-- Video Likes
+- Video Likes Count
 - Subscribers Count
 - Time And Date
 - Video Comments Reply

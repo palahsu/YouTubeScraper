@@ -36,7 +36,7 @@ For any kind of help, support, payment, donate, suggestion and request ask me on
 
 <a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
-## Follow on
+## Follow On
 <p align="left">
 <a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
